@@ -43,7 +43,7 @@ Use your Oculus Quest 2 with Passthrough as a tape measure. Keep in mind that th
 
 ## TO-DOs
 
-- [ ] Add support for imperial units.
+Done! - [ ] Add support for imperial units.
 
 - [ ] Show instructions.
 
